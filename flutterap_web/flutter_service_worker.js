@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "cc8a390d00897bcdd58a6d7e8a423738",
+  "assets/AssetManifest.json": "2cdae741c0dfdeb6363f81e69edcaa4e",
 "assets/assets/fonts/calibril.ttf": "0d717c4bf80cbb556bf87777fef7d09e",
 "assets/assets/fonts/Iranian%2520Sans.ttf": "e59513c82578df5dafb6b8da951be9b6",
 "assets/assets/fonts/Shabnam.ttf": "eaf70407d8fe90987a1d338988301bfa",
@@ -128,6 +128,7 @@ const RESOURCES = {
 "assets/packages/fx_flutter_components/assets/svgs/Megaphone.svg": "33e55b4e12391d906f63ba02e5a1b718",
 "assets/packages/fx_flutter_components/assets/svgs/menu.svg": "24f786603523e0525ca507d6c79d1ab9",
 "assets/packages/fx_flutter_components/assets/svgs/message.svg": "d3411cc52842cc7143e3e425efe5693f",
+"assets/packages/fx_flutter_components/assets/svgs/moon.svg": "9fc86633dff4cca398fd25b792efb7d1",
 "assets/packages/fx_flutter_components/assets/svgs/notification.svg": "ddcfc70556d05fb34cabf64b15687584",
 "assets/packages/fx_flutter_components/assets/svgs/notificationbing.svg": "c74a32aceb17ec0cf743806467347327",
 "assets/packages/fx_flutter_components/assets/svgs/oceanprotocol.svg": "cc9d7b2032fddc0870bbf3aa957dd593",
@@ -148,6 +149,7 @@ const RESOURCES = {
 "assets/packages/fx_flutter_components/assets/svgs/shoppingcart.svg": "8fa20216f89c52cc756289594b9224d4",
 "assets/packages/fx_flutter_components/assets/svgs/square.svg": "596f5c966bc2751302663ed55ffa13e2",
 "assets/packages/fx_flutter_components/assets/svgs/star.svg": "1431b8af48f47e529af12e3322e895e5",
+"assets/packages/fx_flutter_components/assets/svgs/sun.svg": "8ff3dba0d53be0bcad5b610c8ae6db94",
 "assets/packages/fx_flutter_components/assets/svgs/tick.svg": "c86386b7887b8ce5f60d87a6e4142e9c",
 "assets/packages/fx_flutter_components/assets/svgs/ticksquare.svg": "df3d9d82319d751eb4503f72a12e8c6e",
 "assets/packages/fx_flutter_components/assets/svgs/truckfast.svg": "0919c41835160e775ed9587b6115ba40",
@@ -170,9 +172,9 @@ const RESOURCES = {
 "icons/Icon-512.png": "2c0e51c8494b1c385fba19c715f8dd2e",
 "icons/Icon-maskable-192.png": "2c0e51c8494b1c385fba19c715f8dd2e",
 "icons/Icon-maskable-512.png": "2c0e51c8494b1c385fba19c715f8dd2e",
-"index.html": "0bfce67a3592151f7982fc543fb349c3",
-"/": "0bfce67a3592151f7982fc543fb349c3",
-"main.dart.js": "f141c0211d922370e0ca7d8623cc052f",
+"index.html": "73312140f5bb1c8765e0151d8d243c5a",
+"/": "73312140f5bb1c8765e0151d8d243c5a",
+"main.dart.js": "efc1350c964f347b84436c94aee4273d",
 "manifest.json": "0d1ee20b2a0fd526c25f7adf4f228489",
 "version.json": "e8e756639e8f32acf84db4a453ea12d6"
 };
