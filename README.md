@@ -20,10 +20,12 @@ you have more possibilities to build your own mobile, web, desktop apps with rea
 
 see flutterap demo on:
 
+[![Windows](https://flutterap.com/assets/media/website/app-landing/platforms-windows.png)](https://flutterap.com/assets/demo/v1-0/windows/flutter-windows-v1-0.zip)
+[![Android](https://flutterap.com/assets/media/website/app-landing/platforms-android.png)](https://flutterap.com/assets/demo/v1-0/android/flutterap-android-v1-0.apk)
+[![Web](https://flutterap.com/assets/media/website/app-landing/platforms-web.png)](https://flutterap.com/assets/demo/v1-0/web/)
 
-* [Windows](https://flutterap.com)
-* [Android](https://flutterap.com/features)
-* [Web](https://docs.flutterap.com)
+
+
 ## About Flutterap
 
 Flutterap is a product of years of work on the admin panel with different programming languages. One of the challenges we encountered was that libraries like React did not allow us to access the hardware in a single platform. As a result, we looked for a framework that would give us hardware access under one programming language and also be highly efficient. We found the Dart language and the Flutter framework and created Flutterap from it.
