@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d7c7940b-db91-4dee-a20a-e4f1244b8059" name="Default Changelist" comment="initial project version 1.0.0">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/flutterap_android/flutterap.apk" beforeDir="false" />
-    </list>
+    <list default="true" id="d7c7940b-db91-4dee-a20a-e4f1244b8059" name="Default Changelist" comment="initial project version 1.0.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,7 +57,7 @@
       <updated>1679829328436</updated>
       <workItem from="1679829330750" duration="4846000" />
       <workItem from="1680073153297" duration="934000" />
-      <workItem from="1680756779381" duration="2108000" />
+      <workItem from="1680756779381" duration="3123000" />
     </task>
     <task id="LOCAL-00001" summary="initial project version 1.0.0">
       <created>1679829880195</created>
@@ -97,7 +94,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680756806603</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="initial project version 1.0.0">
+      <created>1680758910350</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680758910350</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
