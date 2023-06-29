@@ -3,7 +3,7 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "assets/AssetManifest.json": "6fa4069fde9e5e10ed939946619bccfd",
+  "assets/AssetManifest.json": "30e82d3eeed983e574ffd395fc34b729",
 "assets/assets/fonts/Arabic.ttf": "e59513c82578df5dafb6b8da951be9b6",
 "assets/assets/fonts/Calibri.ttf": "0d717c4bf80cbb556bf87777fef7d09e",
 "assets/assets/fonts/Product%2520Sans%2520Regular.ttf": "eae9c18cee82a8a1a52e654911f8fe83",
@@ -20,7 +20,7 @@ const RESOURCES = {
 "assets/assets/images/signin.png": "aac7d94df8d78fa174598f7e52c668bd",
 "assets/FontManifest.json": "f0b20643f34033f53679cd0dbae9da0e",
 "assets/fonts/MaterialIcons-Regular.otf": "e7069dfd19b331be16bed984668fe080",
-"assets/NOTICES": "49bf72c5b4521c2616af1f9487880aae",
+"assets/NOTICES": "8296311bcbfdbce3bbaff0716219cb40",
 "assets/packages/awesome_dialog/assets/flare/error.flr": "e3b124665e57682dab45f4ee8a16b3c9",
 "assets/packages/awesome_dialog/assets/flare/info.flr": "bc654ba9a96055d7309f0922746fe7a7",
 "assets/packages/awesome_dialog/assets/flare/info2.flr": "21af33cb65751b76639d98e106835cfb",
@@ -55,6 +55,7 @@ const RESOURCES = {
 "assets/packages/fx_flutterap_components/assets/images/back.png": "e0cf68f6413d86bec3a639ce802d1f8a",
 "assets/packages/fx_flutterap_components/assets/images/baladmap.png": "6e0c1a3271933f1fa373f735b7f2742c",
 "assets/packages/fx_flutterap_components/assets/images/calender.svg": "88596fd52078f631464bdcb83e940377",
+"assets/packages/fx_flutterap_components/assets/images/ChatGPT.png": "7088cb8f14fa9cb4acfeea5ca515b5e2",
 "assets/packages/fx_flutterap_components/assets/images/cross.png": "26154b4c714cc253c2ae045eedff130a",
 "assets/packages/fx_flutterap_components/assets/images/down.svg": "dbab5b8561981d6270eb2181820ae0fa",
 "assets/packages/fx_flutterap_components/assets/images/dribble.png": "e1508fddda9ef2292cbce9a01403192a",
@@ -83,6 +84,7 @@ const RESOURCES = {
 "assets/packages/fx_flutterap_components/assets/images/status4.png": "580902bb6bff9e053347847734fb67c5",
 "assets/packages/fx_flutterap_components/assets/images/status5.png": "33c617f4d4937cf770ddd8bfac1f2509",
 "assets/packages/fx_flutterap_components/assets/images/tick.png": "0893b2e5add78132f2ae63cb41fb9707",
+"assets/packages/fx_flutterap_components/assets/lotties/is_typing.json": "053670687bf49fcfba9296825057c4e4",
 "assets/packages/fx_flutterap_components/assets/svgs/add.svg": "7ce6597695f31c75b075ac07c6595fe4",
 "assets/packages/fx_flutterap_components/assets/svgs/advanced.svg": "58f77ecd9487a2bc9bb5cd9c954d3a13",
 "assets/packages/fx_flutterap_components/assets/svgs/arrowdown2.svg": "a10397fc62c5ffb99c9bbbbc6cec6145",
@@ -99,6 +101,7 @@ const RESOURCES = {
 "assets/packages/fx_flutterap_components/assets/svgs/CaretRight.svg": "96368a00800b256ed714805213cf72ee",
 "assets/packages/fx_flutterap_components/assets/svgs/chart.svg": "adddc5542ca949a0725ea873e5e4f5f5",
 "assets/packages/fx_flutterap_components/assets/svgs/chat.svg": "2ac875308db753d3f7a56549d6e8d8f9",
+"assets/packages/fx_flutterap_components/assets/svgs/chatgpt.svg": "93f86bbc51f9a24593dbbe04b6a42ec9",
 "assets/packages/fx_flutterap_components/assets/svgs/ChatsCircle.svg": "d3411cc52842cc7143e3e425efe5693f",
 "assets/packages/fx_flutterap_components/assets/svgs/Check.svg": "7029dc953765f4098e0c1aed09e3420c",
 "assets/packages/fx_flutterap_components/assets/svgs/CheckCircle.svg": "14ef05ce2995b115584ff16b621ac83a",
@@ -212,11 +215,11 @@ const RESOURCES = {
 "icons/Icon-512.png": "2c0e51c8494b1c385fba19c715f8dd2e",
 "icons/Icon-maskable-192.png": "2c0e51c8494b1c385fba19c715f8dd2e",
 "icons/Icon-maskable-512.png": "2c0e51c8494b1c385fba19c715f8dd2e",
-"index.html": "0cb960cc56b3cf24f176507f10969166",
-"/": "0cb960cc56b3cf24f176507f10969166",
-"main.dart.js": "a7fae64e37ed2b146df8828cc1c4dde7",
+"index.html": "3041cc7352b4f8b3663f209a4b1eda9f",
+"/": "3041cc7352b4f8b3663f209a4b1eda9f",
+"main.dart.js": "6568a33b9819a0509f6bee7964955211",
 "manifest.json": "0d1ee20b2a0fd526c25f7adf4f228489",
-"version.json": "06e3da60b3d031f5082188db02b540a9"
+"version.json": "610ce7189f6d012ce69506adb2741dd9"
 };
 
 // The application shell files that are downloaded before a service worker can
